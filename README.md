@@ -2,10 +2,18 @@
 Sou estudante de Engenharia de Software e atualmente estou me aprofundando em estudos na programação para ter um crescimento contínuo
  
 ##
-<div align="center">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryanmelopd&show_icons=true&theme=dark&locale=pt-br&border_radius=20" />
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmelopd&hide=html,css&show_icons=true&theme=dark&locale=pt-br&layout=compact&border_radius=20"/>
-</div>
+<br>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryanmelopd&layout=compact&theme=tokyonight" alt="Top langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanmelopd&theme=tokyonight" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+<br>
 <br>
 <h1 align="left"></h1>
 <a href="https://www.linkedin.com/in/ryan-melo-9b04a03b5/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ryan-melo-pedro"/></a>
