@@ -27,14 +27,13 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-d6a2p030e-ryanmelopds-projects.vercel.app/api?username=ryanmelopd&show_icons=true&theme=tokyonight"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats-d6a2p030e-ryanmelopds-projects.vercel.app/api/top-langs/?username=ryanmelopd&layout=compact&theme=tokyonight"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanmelopd&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=javascript,html,c%2B%2B,css" alt="Top langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanmelopd&theme=tokyonight" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
