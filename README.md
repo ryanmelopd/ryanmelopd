@@ -12,7 +12,7 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
 📚 Atualmente no 1º ano da graduação.
 
 ## 🎯 Objetivos
-💼 Buscando oportunidade de estágio ou vaga júnior na área de desenvolvimento.
+💼 Buscando oportunidade de estágio na área de desenvolvimento.
 
 🚀 Interessado em desenvolvimento back-end, programação e tecnologia.
 
