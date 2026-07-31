@@ -29,6 +29,6 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
 
 <div align="center" width=200>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryanmelopd&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanmelopd6&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanmelopd&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
 </div>
 
