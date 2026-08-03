@@ -8,13 +8,19 @@ Sou estudante de Engenharia de Software na UniFil, apaixonado por tecnologia e d
 Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de programação para evoluir como desenvolvedor.
 
 ## 🎓 Formação
-🎓 Engenharia de Software — UniFil  
+🎓 Engenharia de Software - UniFil  
 📚 Atualmente no 1º ano da graduação.
 
 ## 🎯 Objetivos
 💼 Buscando oportunidade de estágio na área de desenvolvimento.
+🚀 Interessado em desenvolvimento back-end.
 
-🚀 Interessado em desenvolvimento back-end, programação e tecnologia.
+## 📖 Estudando atualmente
+- ☕ Java
+- ⚙️ Desenvolvimento Back-end
+- 🌐 HTML5 e CSS3
+- 🛠️ Desenvolvimento de pequenos projetos para praticar programação
+- 👨‍🏫 Monitoria de alunos, auxiliando no aprendizado de programação e desenvolvimento web
 
 ## 📫 Contato
 - 📧 E-mail: ryanmelopedro190@gmail.com
