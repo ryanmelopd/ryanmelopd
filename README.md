@@ -13,6 +13,7 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
 
 ## 🎯 Objetivos
 💼 Buscando oportunidade de estágio na área de desenvolvimento.
+
 🚀 Interessado em desenvolvimento back-end.
 
 ## 📖 Estudando atualmente
@@ -28,7 +29,7 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
   
 ### 🤖 Linguagens e Tecnologias 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,git" />
 </p>
 
 ### 📊 Estatísticas
