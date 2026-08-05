@@ -22,7 +22,6 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
 - 🌐 HTML5 e CSS3
 - 🛠️ Desenvolvimento de pequenos projetos para praticar programação
 - 👨‍🏫 Monitoria de alunos, auxiliando no aprendizado de programação e desenvolvimento web
-- 📅 Documentação e organização das atividades do NPI ([Cronograma NPI](https://github.com/ryanmelopd/cronograma-npi))
 
 ## 📫 Contato
 - 📧 E-mail: ryanmelopedro190@gmail.com
