@@ -19,7 +19,7 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
 ## 📖 Estudando atualmente
 - ☕ Java
 - ⚙️ Desenvolvimento Back-end
-- 🌐 HTML5 e CSS3
+- 🌐 HTML5, CSS3 e JavaScript.
 - 🛠️ Desenvolvimento de pequenos projetos para praticar programação
 - 👨‍🏫 Monitoria de alunos, auxiliando no aprendizado de programação e desenvolvimento web
 
@@ -29,7 +29,7 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
   
 ### 🤖 Linguagens e Tecnologias 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode,idea" />
 </p>
 
 ### 📊 Estatísticas
