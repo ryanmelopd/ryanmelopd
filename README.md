@@ -19,8 +19,9 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
 ## 📖 Estudando atualmente
 - ☕ Java
 - ⚙️ Desenvolvimento Back-end
-- 🌐 HTML5, CSS3 e JavaScript.
-- 🛠️ Desenvolvimento de pequenos projetos para praticar programação
+- 🌐 HTML5, CSS3 e JavaScript
+- 🐍 Python para Dados e Inteligência Artificial
+- 🛠️ Desenvolvimento de projetos para prática e aprendizado
 - 👨‍🏫 Monitoria de alunos, auxiliando no aprendizado de programação e desenvolvimento web
 
 ## 📫 Contato
