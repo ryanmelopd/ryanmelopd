@@ -11,7 +11,7 @@ Estou sempre buscando aprender novas linguagens, ferramentas e boas práticas de
 
 ## 🎓 Formação
 
-🎓 Engenharia de Software - UniFil
+🎓 Engenharia de Software - UniFil <br>
 📚 Atualmente no 1º ano da graduação.
 
 ## 🎯 Objetivos
