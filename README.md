@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ryan!" alt="Hi, I'm Ryan!" />
-</h1>
+</h3>
 
 <h2>About Me</h2>
 
