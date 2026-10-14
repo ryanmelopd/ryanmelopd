@@ -8,7 +8,7 @@
   ⭐ Backend Developer — Java Spring Boot <br>
   🧑‍🎓 Software Engineering student at Filadélfia University (UniFil) <br>
   🚀 Always looking for new technologies and projects to grow and evolve. <br>
-  💡 Currently seeking an internship to enhance my skills.
+  💡 Currently seeking an internship to enhance my skills
 </p>
 
 <h2>Currently Learning</h2>
