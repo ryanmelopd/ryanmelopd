@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dbeaver/dbeaver-original.svg" height="48" alt="DBeaver" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/maven/maven-original.svg" height="48" alt="Maven" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" height="48" alt="Git" />
