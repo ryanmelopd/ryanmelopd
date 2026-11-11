@@ -18,7 +18,6 @@
   <li>⚙️ Back-end development</li>
   <li>🌱 Spring Boot and REST API development</li>
   <li>🐍 Python for Data Analysis and Artificial Intelligence</li>
-  <li>👨‍🏫 Mentoring students in programming and web development.</li>
 </ul>
 
 <h2>Contact</h2>
