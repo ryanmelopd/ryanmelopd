@@ -54,6 +54,14 @@
 <h2>GitHub Status</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryanmelopd&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanmelopd&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=ryanmelopd&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ryanmelopd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="165"
+    alt="Most Used Languages"
+  />
 </div>
